@@ -8,13 +8,13 @@ kubectl get nodes
 ```
 ## Paso 2
 
-Habilita el dashboard 
+## Habilita el dashboard 
 
 ```sh
 minikube addons enable dashboard
 ```
 
-Instala Helm (Helm es el gestor de paquetes para Kubernetes)
+## Instala Helm (Helm es el gestor de paquetes para Kubernetes)
 
 ```sh
 choco install kubernetes-helm
